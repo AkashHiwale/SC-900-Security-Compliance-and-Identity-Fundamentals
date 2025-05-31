@@ -1,6 +1,6 @@
 # 🏅 Microsoft Certified: Security, Compliance, and Identity Fundamentals
 
-<img src="./images/sc-900-certificate.jpg" alt="Microsoft Certified: SC-900" width="60%"/>
+<img src="./images/sc-900-certificate.JPG" alt="Microsoft Certified: SC-900" width="60%"/>
 
 ---
 
